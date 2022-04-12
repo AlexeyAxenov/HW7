@@ -6,7 +6,7 @@ public class DayInfo {
     private String date;
     private String weather;
     private String city;
-
+//HW7
 
     public DayInfo(String minTemp, String maxTemp, String date, String weather, String city) {
         this.minTemp = minTemp;
