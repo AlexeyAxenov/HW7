@@ -11,7 +11,7 @@ public class RequestSender {
         private static OkHttpClient okHttpClient = new OkHttpClient();
         private static ObjectMapper objectMapper = new ObjectMapper();
 
-        private static final String API_KEY = "t2cVAklY2TNAPLX9JqSyftAywCDLXTws";
+        private static final String API_KEY = "U2supnJ6luhCWZ7mG2N1stgz14eEguXH;
 
         public static DayInfo getInfo(String cityId) throws IOException {
 
